@@ -1,0 +1,13 @@
+.Subscription-cards{
+    display: flex;
+    gap: 20px;
+    background-color: black;
+    color: white;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.Subscription__s1{
+    border: 1px solid white;
+}
+
